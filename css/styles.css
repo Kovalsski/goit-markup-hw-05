@@ -137,7 +137,7 @@ body {
 .accent {
   color: var(--accent-color);
 }
-.menu-link .accent::after {
+.accent::after {
   position: absolute;
   left: 0;
   bottom: 0;
